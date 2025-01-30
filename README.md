@@ -20,6 +20,12 @@ A powerful semantic search API built with FastAPI, Qdrant vector database, and L
 - Docker & Docker Compose
 - Python 3.12
 
+
+## Screenshots for query and response
+# Stop containers<img width="1618" alt="Screenshot 2025-01-31 at 4 29 12 AM" src="https://github.com/user-attachments/assets/a6fde781-05fc-4ffc-82e4-e936f0969a2f" />
+# Contributing<img width="1633" alt="Screenshot 2025-01-31 at 4 29 00 AM" src="https://github.com/user-attachments/assets/1c8e10be-f7e9-4b40-8958-141465fce453" />
+
+
 ## Project Structure
 
 ```
@@ -141,7 +147,8 @@ docker-compose up --build
 # Run in background
 docker-compose up -d
 
-# Stop containers
+
+
 docker-compose down
 
 # View logs
@@ -165,7 +172,8 @@ curl -X POST http://localhost:8000/query \
 }'
 ```
 
-## Contributing
+
+
 
 1. Fork the repository
 2. Create your feature branch
