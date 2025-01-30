@@ -23,8 +23,10 @@ A powerful semantic search API built with FastAPI, Qdrant vector database, and L
 - Python
 
 ## Screenshots for query and response
-<img width="1618" alt="Screenshot 2025-01-31 at 4 29 12 AM" src="https://github.com/user-attachments/assets/a6fde781-05fc-4ffc-82e4-e936f0969a2f" />
+
 <img width="1633" alt="Screenshot 2025-01-31 at 4 29 00 AM" src="https://github.com/user-attachments/assets/1c8e10be-f7e9-4b40-8958-141465fce453" />
+<img width="1618" alt="Screenshot 2025-01-31 at 4 29 12 AM" src="https://github.com/user-attachments/assets/a6fde781-05fc-4ffc-82e4-e936f0969a2f" />
+
 
 
 
