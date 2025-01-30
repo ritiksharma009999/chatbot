@@ -1,6 +1,6 @@
 
 
-# FastAPI Semantic Search Chatbot
+# FastAPI Chatbot
 
 A powerful semantic search API built with FastAPI, Qdrant vector database, and LlamaIndex. This application provides advanced document search capabilities using state-of-the-art language models and vector search technology.
 
