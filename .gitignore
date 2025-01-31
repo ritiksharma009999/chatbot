@@ -22,6 +22,8 @@ ENV/
 # Logs
 *.log
 logs/
+/work/chatbot/nohup.out
+/work/chatbot/src/nohup.out
 
 # Data files (if you don't want to include them)
 data/*
